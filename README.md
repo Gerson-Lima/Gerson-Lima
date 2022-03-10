@@ -1,4 +1,5 @@
 ### Hi, there 👋
+Currently learning to program 👨🏽‍💻
 
 <!--
 **Gerson-Lima/Gerson-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
