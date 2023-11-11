@@ -42,14 +42,11 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/gersonlima1/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gersonlima1-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/gersondlima/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gersondlima-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
