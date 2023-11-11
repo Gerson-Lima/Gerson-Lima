@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Swift, SwiftUI, UIKit, Figma, AdobeXD, HTML, CSS, C**
 
-- 👨‍💻 More at https://www.linkedin.com/in/gersonlima1/
 
 <!--
 
