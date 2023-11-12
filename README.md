@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working at Pública-RN
 
-- 💬 Ask me about **Swift, SwiftUI, UIKit, Figma, AdobeXD, HTML, CSS, C**
+- 💬 Ask me about **Swift, SwiftUI, UIKit, Figma, AdobeXD, HTML, CSS, C, Agile methodologies and more**
 
 
-<!--
+
 
 <br><br>
 
