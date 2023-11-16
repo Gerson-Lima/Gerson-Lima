@@ -27,9 +27,13 @@
 <br>
 
 ## Contact
-<a href="mailto:gersondouglas2011@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
-<a href="https://www.linkedin.com/in/gersonlima1/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 
+
+<div align="left"> 
+<a href = "mailto:gersondouglas2011@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gersonlima1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ <br>
 <!--
 
 Here are some ideas to get you started:
