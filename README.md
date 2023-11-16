@@ -1,6 +1,6 @@
 <h1 align="left">Hey, there! I'm Gerson Lima, 23 years old, currently living in Brazil.</h1>
 
-<img align="right" height="555em" src="https://raw.githubusercontent.com/gist/Gerson-Lima/612566c5217626417853425c0c30e5ba/raw/c730600f5f3fcf434a6e79803c9c712ff66ef303/githubCard.svg"/>
+<img align="right" height="545em" src="https://raw.githubusercontent.com/gist/Gerson-Lima/612566c5217626417853425c0c30e5ba/raw/c730600f5f3fcf434a6e79803c9c712ff66ef303/githubCard.svg"/>
 
 ## About me
 
