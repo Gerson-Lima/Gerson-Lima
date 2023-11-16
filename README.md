@@ -13,9 +13,9 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href = "mailto:gersondouglas2011@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
+<a href = "mailto:gersondouglas2011@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target=" "/>
 </a>
-<a href = "https://www.linkedin.com/in/gersonlima1/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+<a href = "https://www.linkedin.com/in/gersonlima1/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=" "/>
 </a>
 </p>
 
