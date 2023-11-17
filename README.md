@@ -18,9 +18,7 @@
 
 • User Interface Design;
 
-• User Experience Design;
-
-• User Interface Design.
+• User Experience Design.
 
 <br>
 
