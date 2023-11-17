@@ -16,9 +16,9 @@
 
 • FrontEnd Development with HTML, CSS, Javascript;
 
-• User Interface Design;
+• User Experience Design;
 
-• User Experience Design.
+• User Interface Design.
 
 <br>
 
