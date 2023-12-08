@@ -14,7 +14,7 @@
 
 • iOS Development with Swift (UIKit and SwiftUI);
 
-• FrontEnd Development with HTML, CSS, Javascript;
+• FrontEnd Development with HTML, CSS, Javascript (learning);
 
 • User Experience Design;
 
