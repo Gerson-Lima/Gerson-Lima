@@ -12,7 +12,7 @@
 
 ## Technologies
 
-• iOS Development with Swift (UIKit and SwiftUI);
+• Mobile Development for iOS with Swift (UIKit and SwiftUI);
 
 • FrontEnd Development with HTML, CSS, Javascript (learning);
 
