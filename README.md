@@ -2,7 +2,7 @@
 
 <img align="right" height="533em" src="https://raw.githubusercontent.com/gist/Gerson-Lima/612566c5217626417853425c0c30e5ba/raw/c730600f5f3fcf434a6e79803c9c712ff66ef303/githubCard.svg"/>
 
-## About me
+### About me
 
 • IT student throwing himself into the world of technology
 
@@ -10,7 +10,7 @@
 
 <br>
 
-## Technologies
+### Technologies
 
 • Mobile Development for iOS with Swift (UIKit and SwiftUI);
 
@@ -22,7 +22,7 @@
 
 <br>
 
-## Contact
+### Contact
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gersondouglas2011@gmail.com )
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/gersonlima)
