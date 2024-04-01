@@ -6,7 +6,7 @@
 
 • IT student throwing himself into the world of technology
 
-• I'm currently an intern at Pública-RN
+• I'm currently a member of the junior company (AltoTech Jr) at ufersa.
 
 <br>
 
@@ -14,7 +14,7 @@
 
 • Mobile Development for iOS with Swift (UIKit and SwiftUI);
 
-• FrontEnd Development with HTML, CSS, Javascript (learning);
+• FrontEnd Development with HTML, CSS, Javascript (React and Bootstrap);
 
 • User Experience Design;
 
