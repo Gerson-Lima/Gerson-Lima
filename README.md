@@ -20,7 +20,9 @@
 
 • User Interface Design.
 
-<br>
+<br><br>
+
+
 
 ### Contact
 
@@ -31,3 +33,6 @@
 ![Snake animation](https://github.com/igor93araujo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gerson-Lima" alt="Gerson-Lima" /> </p>
+
+
+
