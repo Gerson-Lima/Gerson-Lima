@@ -1,4 +1,4 @@
-<h1 align="left">Hey, there! I'm Gerson Lima, 24 years old, currently living in Brazil.</h1>
+<h1 align="left">Hey, there! I'm Gerson Lima, 25 years old, currently living in Brazil.</h1>
 
 ### About me
 
