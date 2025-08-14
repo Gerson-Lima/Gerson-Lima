@@ -2,7 +2,7 @@
 
 ### About me
 
-• Software Engineer student throwing himself into the world of technology
+• Chemistry technician, IT graduate, and Software Engineering student throwing himself into the world of technology;
 
 • I'm currently a member of the junior company (AltoTech Jr) at ufersa.
 
