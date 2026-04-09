@@ -12,7 +12,7 @@
 
 • Mobile Development for iOS with Swift (UIKit and SwiftUI);
 
-• FrontEnd Development with HTML, CSS, Javascript (React, Bootstrap and Tailwind);
+• FrontEnd Development with HTML, CSS, Javascript (React, Astro Build, Bootstrap and Tailwind);
 
 • User Experience Design (Certified by Google);
 
