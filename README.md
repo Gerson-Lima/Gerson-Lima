@@ -7,6 +7,7 @@
 • I'm currently a member of the junior company (AltoTech Jr) at ufersa.
 
 <br>
+
 ### Technologies
 
 • Mobile Development for iOS with Swift (UIKit and SwiftUI);
